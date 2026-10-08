@@ -17,12 +17,17 @@
 
 ## `$ whoami`
 
-Soy Pablo Arce Pari, estudiante de Ingeniería Civil Industrial. Uso Excel, SQL, PowerPoint y Python en mi trabajo académico.
+<p align="center"><img src="assets/whoami-pablo.svg" width="960" alt="Presentación de Pablo Arce Pari"></p>
 
 ## `$ cat herramientas.yaml`
 
-| Herramienta | Uso |
-| --- | --- |
+<table>
+<tr><th colspan="2">arceparipaul-oss:~$ cat herramientas.yaml</th></tr>
+<tr><td align="center" width="50%"><img src="assets/icon-excel.svg" width="80" alt="Excel"><br><strong>Excel</strong><br>Hojas de cálculo</td><td align="center" width="50%"><img src="assets/icon-sql.svg" width="80" alt="SQL"><br><strong>SQL</strong><br>Consultas a bases de datos</td></tr>
+<tr><td align="center" width="50%"><img src="assets/icon-powerpoint.svg" width="80" alt="PowerPoint"><br><strong>PowerPoint</strong><br>Presentaciones</td><td align="center" width="50%"><img src="assets/icon-python.svg" width="80" alt="Python"><br><strong>Python</strong><br>Programación</td></tr>
+</table>
+
+--- | --- |
 | **Excel** | Hojas de cálculo |
 | **SQL** | Consultas a bases de datos |
 | **PowerPoint** | Presentaciones |
@@ -39,4 +44,3 @@ Soy Pablo Arce Pari, estudiante de Ingeniería Civil Industrial. Uso Excel, SQL,
 
 <sub>Diseño adaptado de <a href="https://github.com/macu-dev/macu-dev">macu-dev</a> · Personalizado en verde y celeste.</sub>
 </div>
-
